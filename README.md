@@ -9,3 +9,5 @@ Sou altamente forte em comunicação, aprendizado e sou apaixonado por programa�
 Fluente em Inglês, e pretendo aprender Espanhol!
 ##
 [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,windows&theme)](https://skillicons.dev)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
