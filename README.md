@@ -8,4 +8,4 @@ Sou altamente forte em comunicação, aprendizado e sou apaixonado por programa�
 
 Fluente em Inglês, e pretendo aprender Espanhol!
 ##
-[![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse&theme)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,windows&theme)](https://skillicons.dev)
