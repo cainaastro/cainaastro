@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=A7E752&text=Futuro%20Dev%20Java&fontColor=00000&stroke=98F61B&strokeWidth=0](https://motionbgs.com/media/4996/pixel-gaming-room.960x540.mp4))
+![header](https://raw.githubusercontent.com/cainaastro/cainaastro/refs/heads/main/pixel-gaming-room.960x540-_1_.gif)
 
 ## Oi, eu sou Cainã 👋
 ## Estudante de Programação, na linguagem Java! ☕
