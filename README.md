@@ -1,8 +1,12 @@
 ![header](https://raw.githubusercontent.com/cainaastro/cainaastro/refs/heads/main/pixel-gaming-room.960x540-_1_.gif)
 
-<div>
-  <h1 align="center"> 👋 Olá, Eu Sou <a 
-"><i>Cainã</i></a> 😃️</h1>
+<div align="center">
+  <h1>👋 Olá, Eu Sou 
+    <svg fill="none" viewBox="0 0 120 40" width="120" height="40" xmlns="http://www.w3.org/2000/svg">
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="limegreen" font-size="28" font-style="italic">Cainã</text>
+    </svg>
+    😃️
+  </h1>
 </div>
 
 ## Estudante de Programação, na linguagem Java! ☕
