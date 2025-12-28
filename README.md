@@ -1,7 +1,8 @@
 ![header](https://raw.githubusercontent.com/cainaastro/cainaastro/refs/heads/main/pixel-gaming-room.960x540-_1_.gif)
 
-<div align="center">
-  <h1>👋 Olá, Eu Sou <img src="./caina.svg" alt="Cainã"/> 😃️</h1>
+<div>
+  <h1 align="center"> 👋 Olá, Eu Sou <a 
+"> Cainã</></a> 💻</h1>
 </div>
 
 ## Estudante de Programação, na linguagem Java! ☕
