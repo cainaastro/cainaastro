@@ -12,6 +12,14 @@ Atualmente faço curso na [Udemy ](https://www.udemy.com/) com o professor Néli
 Sou altamente forte em comunicação, aprendizado e sou apaixonado por Programação desde os meus 8 anos de idade.
 Fluente em Inglês, e pretendo aprender Espanhol!
 ##
+
+<div align="center">
+  <a href="https://github.com/cainaastro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cainaastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainaastro&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    <br />
+
 <h3>Linguagens e Ferramentas que uso:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,windows,discord,github&theme)](https://skillicons.dev)
