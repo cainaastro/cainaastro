@@ -19,3 +19,7 @@ Contatos:
 
 - Inglês (Avançado)
 - Espanhol (Iniciante) 
+
+## 📂 Meus Projetos
+
+Confira meus repositórios fixados abaixo! 👇
