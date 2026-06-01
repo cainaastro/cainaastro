@@ -1,5 +1,5 @@
 ## 👋 Olá, me chamo Cainã!
-Estou estudando programação, pretendo me tornar um Desenvolvedor Java, sou apaixonado em tecnologia desde os 8 anos. Atualmente estou cursando de Java COMPLETO Programação Orientada a Objetos + Projetos do Professor Nélio Alves [(Udemy)](www.udemy.com)
+Estou estudando programação, pretendo me tornar um Desenvolvedor Java, sou apaixonado em tecnologia desde os 8 anos. Atualmente estou cursando  Java COMPLETO Programação Orientada a Objetos + Projetos do Professor Nélio Alves [(Udemy)](www.udemy.com)
 
 Contatos:
 
